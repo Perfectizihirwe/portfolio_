@@ -67,5 +67,10 @@ main {
 }
 
 .header {
-  margin-bottom: 10%;
+  margin-bottom: 5%;
+}
+
+.logo {
+  font-size: 35px;
+  color: #72e2ae;
 }
